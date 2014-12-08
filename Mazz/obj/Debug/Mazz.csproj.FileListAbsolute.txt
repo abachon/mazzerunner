@@ -8,3 +8,5 @@ C:\Users\erik\Desktop\Mazz\Mazz\obj\Debug\Mazz.exe
 C:\Users\erik\Desktop\Mazz\Mazz\obj\Debug\Mazz.pdb
 C:\Users\Alex\Desktop\Mazz\Mazz\obj\Debug\Mazz.exe
 C:\Users\Alex\Desktop\Mazz\Mazz\obj\Debug\Mazz.pdb
+C:\Users\Alex\Documents\GitHub\mazzerunner\Mazz\obj\Debug\Mazz.exe
+C:\Users\Alex\Documents\GitHub\mazzerunner\Mazz\obj\Debug\Mazz.pdb

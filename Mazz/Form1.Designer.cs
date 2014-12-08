@@ -1,6 +1,7 @@
 ﻿namespace Mazz
 {
     //Test change
+    //This is another test change
     partial class Form1
     {
         /// <summary>
